@@ -27,3 +27,5 @@ printf(hello);
 
 result:
 <code>ifmmp</code>
+
+## Memory Allocation
